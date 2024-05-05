@@ -1,0 +1,278 @@
+body{
+    /* background-image: url(image/ordinateur\ fond.jpg); */
+    background-color: rgb(22, 142, 147);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+
+}
+.contact{
+
+    margin-top: -360px;
+    margin-left: 823px;
+    background-color: rgb(22, 156, 163);
+    box-shadow: 0px 0px 8px 8px;
+    border-radius: 17px;
+    height: 350px;
+    width: 600px;
+}
+.contact:hover{
+    margin-top:-390px;
+    background-color: rgb(22, 156, 163);
+    width: 700px;
+    height: 400px;
+    box-shadow: 0px 0px 9px 6px;
+    margin-left: 800px;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    box-shadow: 0px 0px 9px 6px rgb(247, 245, 245);
+
+}
+.vert{
+    color: red;
+    font-size: 30px;
+    margin-top: -60px;
+}
+
+div {font-style: normal;}
+.rouge{color:red;}
+.bleu{color: red;}
+.orange{color: red;}
+
+
+
+
+.mission{
+  /*  float: right;
+margin-top: 2%;
+border: 
+3px solid black;*/
+margin-top:300px;
+background-color: rgb(22, 156, 163);
+width: 600px;
+box-shadow: 0px 0px 9px 6px black;
+margin-left: 4cm;
+border-radius: 20px;
+font-size: 19px;
+
+}
+.mission:hover{
+    margin-top:300px;
+background-color: rgb(22, 156, 163);
+width: 700px;
+box-shadow: 0px 0px 8px 8px;
+margin-left: 2cm;
+color: white;
+border-radius: 20px;
+font-size: 20px;
+box-shadow: 0px 0px 9px 6px rgb(244, 240, 240);
+}
+
+
+
+.objectif{
+    /*float: left;
+margin-top: 2%;
+border: 3px solid black;
+padding: 10px; ;}*/
+
+margin-top:-439px;
+background-color: rgb(22, 156, 163);
+width: 600px;
+box-shadow: 0px 0px 9px 6px black;
+margin-left: 800px;
+border-radius: 20px;
+font-size: 19px;
+}
+.objectif:hover{
+    margin-top:-439px;
+background-color: rgb(22, 156, 163);
+width: 700px;
+box-shadow: 0px 0px 9px 6px;
+margin-left: 800px;
+color: white;
+border-radius: 20px;
+font-size: 20px;
+box-shadow: 0px 0px 9px 6px rgb(247, 243, 243);
+}
+
+
+
+.particularite{/*float: left
+    ;
+     margin-left: 2%;
+border: 3px solid black;
+padding-inline-start: 65px;}
+table{border-collapse: collapse;}
+.div4{left: 5px;
+width:5px; */
+
+margin-top:100px;
+background-color: rgb(22, 156, 163);
+width: 600px;
+box-shadow: 0px 0px 9px 6px black;
+margin-left: 4cm;
+border-radius: 20px;
+font-size: 19px;
+
+}
+.particularite:hover{
+margin-top:100px;
+background-color: rgb(22, 156, 163);
+width: 700px;
+height: 400px;
+box-shadow: 0px 0px 9px 6px rgb(248, 245, 245);
+margin-left: 2cm;
+color: white;
+border-radius: 20px;
+font-size: 20px;
+
+}
+
+.logo{
+    border-radius:100px;
+    height: 100px;
+    display: flex;
+    margin-top: 20px;
+    
+    position: fixed;
+    margin-left: 150px;
+
+}
+
+
+
+
+
+.title{
+    background-color:rgb(22, 156, 163);
+height: 150px;
+width: 100%;
+box-shadow: 0px 0px 9px 6px black;
+font-size: 40px;
+margin-top:-300px;
+color:  rgb(225, 232, 232);;
+text-shadow: 3px 4px 4px rgb(26, 13, 7); 
+position: fixed;
+
+}
+.title:hover{
+    color: black;
+    text-shadow: 0px 0px 4px 5px black;
+    font-size: 45px;
+    background-color:rgb(22, 156, 163);
+    width: 99%;
+    margin-top:-290px;
+    border-radius: 15px;
+}
+
+
+
+
+
+.img_miss{
+    width: 500px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 40px;
+    box-shadow:   5px 4px rgb(218, 198, 198);
+}
+.img_obj{
+    width: 500px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 40px;
+    box-shadow:   5px 4px rgb(218, 198, 198);
+}
+
+.img_part{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 60px;
+    box-shadow:   5px 4px rgb(218, 198, 198);
+}
+.img_part1{
+    width: 250px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 250px;
+    box-shadow:   5px 4px rgb(218, 198, 198);
+    margin-top: -150px;
+}
+.miss{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+button{
+    background-color:rgb(22, 156, 163);
+    border: none;
+    border-radius: 10px;
+    margin-left: 9px;
+    color: rgb(219, 24, 24);
+}
+.ms{
+    box-shadow: 2px 3px white;
+    text-shadow: 2px 3px black;
+    
+}
+.ion{
+    color: black;
+    text-shadow: 2px 3px white;
+    font-size: 25px;
+    
+}
+
+.portofolio{
+    background-color: none;
+    margin-top: -1020px;
+
+}
+
+.portofolio:hover{
+
+    background-color:  rgb(22, 156, 163);
+    margin-top: -1020px;
+    box-shadow: 0px 0px 9px 6px black;
+    height: 100px;
+    border-radius: 20px;
+
+}
+
+
+
+.h1{
+    color: brown;
+    font-size: 26px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 2px 3px 3px white;
+    margin-left: 150px;
+}
+
+.h2{
+    color: brown;
+    font-size: 26px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 2px 3px 3px white;
+    margin-left: 290px;
+}
+
+.h3{
+    color: brown;
+    font-size: 26px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 2px 3px 3px white;
+    margin-left: 290px;
+
+}
+
+.h4{
+    color: brown;
+    font-size: 26px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-shadow: 2px 3px 3px white;
+    margin-left: 290px;
+}
+
